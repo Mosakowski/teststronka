@@ -76,7 +76,7 @@ możliwość przesyłania pliku Excel z bazą wiedzy,
 
 <!-- livebook:{"break_markdown":true} -->
 
-![](files/obraz_2025-05-30_140420124.png)
+![](screenaltar.png)
 
 ## Przykładowe użycie
 
